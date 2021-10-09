@@ -333,7 +333,7 @@ footer li a{
     }
 
     .header-ul li>a{
-        font-size: 15px;
+        font-size: 20px;
         text-transform: initial;
         color: var(--clr-white);
     }
